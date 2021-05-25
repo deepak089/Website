@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Issam Zantout</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
 
+<div class="jumbotron text-center" style="background-image: url('CV Backround Picture.jpg');">
+    <h1>College of Engineering - CSULB </h1>
+  <h3>Issam Zantout - Computer Engineering Student    <i class='fas fa-tv' style='font-size:36px;color:gold'></i><h3> 
+</div>
+
+
+<div class="container" style="margin-top:30px">
+    
+ <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading"></strong>A LITTLE ABOUT ME</strong></h2>
+        <p class="lead">Computer engineering student skilled at problem-solving, software development, and hardware design. Works well individually, and as part of a diverse team. Strong leader with various skills, and an excellent communicator.
+I love soccer. Ive been captain of both my junior varsity and varsity highschool teams and helped both my club and my highschool teams win national and international trophies.</p>
+      </div>
+      <div class="col-md-5">
+        <img src="CV Picture.jpg" alt="Issam Zantout" width="400" height="400">
+
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">
+    
+<div class="row featurette">
+      <div class="col-md-7">
+          <ul>
+       <h2 class="featurette-heading">My Classes</h2>
+<p class="lead">
+              <div class="col-md-5">
+        
+      </div>
+            <li>CECS 201 - Computer Logic Design 1</li>  
+            <li>CECS 211 - Principles of Computer Engineering</li>
+            <li>CECS 174 - Introduction to Programming and Problem Solving</li>
+            <li>CECS 105 - Introduction to CECS</li>
+            <li>Math 122 - Calculus 1</li>
+            <li>Math 123 - Calculus 2</li>
+	    <li>ENGR 101 - Intro to Engineering Profession</li>
+	    <li>ENGR 102 - Academic Success Skills</li>
+            <li>R/ST 10 - Religious Quest for Meaning</li>
+	    <li>CWL 101 - Intro to Comparative literature</li>
+	    <li>ENG100B - Composition II</li>
+          </ul>
+        </p>
+      </div>
+              <div class="col-md-5">
+        <img src="Csulb-Pyramid.jpg" alt="Csulb-Pyramid" width="400" height="400">
+
+      </div> 
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">    
+    
+<div class="jumbotron text-center" style="background-image: url('CV Backround Image.jpg');">
+<i class='fas fa-graduation-cap' style='font-size:48px;color:gold'></i>
+<h2 class="featurette-heading">Links</h2>
+  <p>       
+	  <form method="post" action="mailto:issam.zantout@student.csulb.edu" >
+<input type="submit" value="Email" /> 
+<form>
+	 <input type="button" onclick="location.href='https://www.linkedin.com/in/issam-zantout';" value="LinkedIn" />
+	 <input type="button" onclick="location.href='https://csulb-csm.symplicity.com/profiles/issam.zantout';" value="CareerLINK" />  
+
+</div>
+    </div>
+</body>
+</html>
