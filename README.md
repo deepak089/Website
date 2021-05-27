@@ -1,4 +1,1 @@
-Index.html is the html code for the page created.
-CV Picture.jpg is my picture
-CV Backround Picture is the backround picture for the top part
-CV Backround Image is the backround image for the bottom part
+In this repository are all HTML files used to create my profile, all CSS files used to alter my website, and all the pictures used in my website
