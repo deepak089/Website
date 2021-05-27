@@ -19,8 +19,15 @@
 <div class="jumbotron text-center" style="background-image: url('Header Background Photo.jpg');">
     <h1>College of Engineering - CSULB </h1>
   <h3>Issam Zantout - Computer Engineering Student    <i class='fas fa-tv' style='font-size:36px;color:gold'></i><h3>
-	  	<input type="button" onclick="location.href='index.html';" value="About Me" />
-	<input type="button" onclick="location.href='projects.html';" value="My Projects" />
+<div class="btn-group btn-group-toggle" data-toggle="buttons">
+  <label class="btn btn-secondary active">
+    <input  onclick="location.href='index.html';" type="radio" name="options" id="option1" autocomplete="off" checked> About Me
+  </label>
+  <label class="btn btn-secondary">
+    <input  onclick="location.href='projects.html';" type="radio" name="options" id="option2" autocomplete="off"> My projects
+  </label>
+</div>
+</div>
 </div>
 
 
